@@ -1,4 +1,4 @@
-![BuildStatus](https://github.com/bmi203-2023/minimal-viable-package/actions/workflows/main.yml/badge.svg?event=push)
+![BuildStatus](https://github.com/bmi203-2024/minimal-viable-package/actions/workflows/main.yml/badge.svg?event=push)
 [![Documentation Status](https://readthedocs.org/projects/minimal-viable-package/badge/?version=latest)](https://minimal-viable-package.readthedocs.io/en/latest/?badge=latest)
 
 # Minimal-Viable-Package
